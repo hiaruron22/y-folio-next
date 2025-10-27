@@ -654,7 +654,7 @@ const PortfolioEditPage = () => {
                       value={form.user.name} onChange={handleBasicInfoChange} />
                   </div>
                   <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-2">大学</label>
+                    <label className="block text-sm font-medium text-gray-700 mb-2">学校</label>
                     <input type="text" name="university"
                       className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
                       placeholder="東京大学"
